@@ -12,7 +12,6 @@
     width: 26px;
     height: 100%;
     border: 1px solid var(--background-color-3);
-    border-bottom: 0;
 }
 
 .container-sidebar h3 {

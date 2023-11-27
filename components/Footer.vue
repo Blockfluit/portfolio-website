@@ -6,6 +6,10 @@
 
 <style scoped>
 footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--background-color-1);
     display: flex;
     justify-content: center;
     align-items: center;
