@@ -2,7 +2,10 @@
 export default defineNuxtConfig({
     devtools: { enabled: true },
     ssr: false,
-    modules: ['nuxt-icon'],
+    modules: [
+        'nuxt-icon',
+        '@pinia/nuxt'
+    ],
     vite: {
         server: {
             fs: {
