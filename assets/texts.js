@@ -1,6 +1,6 @@
 export const terminalLinesDefault = [
     "Name: <span style='color: var(--color-2)'>Niels van Bruggen</span>",
-    "Role: <span style='color: var(--color-2)'>Software Engineer</span>",
+    "Role: <span style='color: var(--color-2)'>Software Programmer</span>",
     "Nationality: <span style='color: var(--color-2)'>Netherlands</span>",
     "Email: <a href='mailto:nwbvanbruggen@outlook.com'>nwbvanbruggen@outlook.com</a>",
     "GitHub: <a href='https://github.com/Blockfluit'>Blockfluit</a>",
@@ -16,7 +16,7 @@ export const mainDefault = [
     "   {",
     "        User user = User.builder()",
     "            .name(\"Niels van Bruggen\")",
-    "            .role(Role.<span style='font-style: italic;'>SOFTWARE_ENGINEER</span>)",
+    "            .role(Role.<span style='font-style: italic;'>SOFTWARE_PROGRAMMER</span>)",
     "            .nationality(\"Netherlands\")",
     "            .email(\"nwbvanbruggen@outlook.com\")",
     "            .gitHub(\"https://github.com/Blockfluit\")",
